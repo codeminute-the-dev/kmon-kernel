@@ -6,7 +6,7 @@ wrote this because i needed to know what drivers were getting loaded and i didn'
 
 ![platform](https://img.shields.io/badge/platform-windows-blue)
 ![language](https://img.shields.io/badge/language-C%2B%2B-f34b7d)
-![license](https://img.shields.io/badge/license-MIT)
+![license](https://img.shields.io/badge/license-MIT-green)
 ![elevation](https://img.shields.io/badge/run%20as-administrator-red)
 
 ---
