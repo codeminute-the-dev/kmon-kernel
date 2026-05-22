@@ -65,6 +65,7 @@ kmon -a -l -i 250
 ```
   12:34:56.789  LOAD    somedriver.sys                        0xFFFFF80012340000  \SystemRoot\System32\Drivers\somedriver.sys
   12:34:57.123  UNLOAD  sketchything.sys                      0xFFFFF80099810000
+  12:35:34.145  LOAD    notbyovdmalware.sys                   0xFFFFF80099810040 
 ```
 
 on exit it prints how many load/unload events happened. good for when you're staring at it at 2am trying to figure out what that executor just dropped.
